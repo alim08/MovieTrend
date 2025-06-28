@@ -1,4 +1,4 @@
-# My First React App
+# MovieTrend
 
 This is a modern web application scaffolded using **Vite**, **React**, and **TailwindCSS**. It also integrates **Appwrite** for backend services and includes robust development tools like ESLint and React Hooks plugins.
 
